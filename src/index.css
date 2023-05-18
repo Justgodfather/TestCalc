@@ -1,0 +1,48 @@
+#input {
+  color: red;
+  width: 100%;
+  height: 100%;
+  font-size: 40px;
+  border-radius: 10px;
+}
+#input2 {
+  color: red;
+  width: 100%;
+  border-radius: 10px;
+
+  height: 100%;
+  font-size: 40px;
+}
+#input3 {
+  color: red;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+
+  font-size: 40px;
+}
+#input4 {
+  color: red;
+  width: 100%;
+  border-radius: 10px;
+
+  height: 100%;
+  font-size: 40px;
+  transition: 1s;
+}
+#input4:hover {
+  transform: scale(1.2);
+}
+
+body {
+  /* background-color: #000; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-style {
+  width: 200px;
+  height: 100px;
+}
